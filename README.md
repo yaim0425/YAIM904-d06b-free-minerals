@@ -39,12 +39,26 @@ No configuration is required. Simply unlock and use them.
 
 ## 🔗 Repository
 
-* GitHub: [https://github.com/yaim0425/YAIM0425-d06b-free-minerals](https://github.com/yaim0425/YAIM0425-d06b-free-minerals)
+**MOD**
+[YAIM0425 d06b Free minerals](https://github.com/yaim0425/YAIM0425-d06b-free-minerals)
 
+**Required**
+
+[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+
+---
+
+## ❤️ Support
+
+Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 ---
 
 ## 🖼️ Screenshots
 
-![Free Minerals Screenshot 1](screenshot/\(1\).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM0425-d06b-free-minerals/raw/code/screenshot/(1).png)
 
----
+![Screenshot 2](https://github.com/yaim0425/YAIM0425-d06b-free-minerals/raw/code/screenshot/(2).png)
+
+![Screenshot 3](https://github.com/yaim0425/YAIM0425-d06b-free-minerals/raw/code/screenshot/(3).png)
+
+![Screenshot 4](https://github.com/yaim0425/YAIM0425-d06b-free-minerals/raw/code/screenshot/(4).png)
