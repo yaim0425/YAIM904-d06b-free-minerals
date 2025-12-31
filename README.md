@@ -1,8 +1,8 @@
-# YAIM0425 d06b – Free Minerals ⛏️♻️
+# YAIM904 d06b – Free Minerals ⛏️♻️
 
 ## 📦 Description
 
-**YAIM0425 d06b – Free Minerals** adds special recipes that allow players to **generate solid resources (minerals) for free** and **destroy unwanted items**.
+**YAIM904 d06b – Free Minerals** adds special recipes that allow players to **generate solid resources (minerals) for free** and **destroy unwanted items**.
 
 This MOD is intended for testing, creative gameplay, and large-scale factory experiments where normal mining and logistics are not the focus.
 
@@ -40,11 +40,11 @@ No configuration is required. Simply unlock and use them.
 ## 🔗 Repository
 
 **MOD**
-[YAIM0425 d06b Free minerals](https://github.com/yaim0425/YAIM0425-d06b-free-minerals)
+[YAIM904 d06b Free minerals](https://github.com/yaim0425/YAIM904-d06b-free-minerals)
 
 **Required**
 
-[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+[YAIM904 d00b Core](https://github.com/yaim0425/YAIM904-d00b-core)
 
 ---
 
@@ -55,10 +55,10 @@ Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](https://github.com/yaim0425/YAIM0425-d06b-free-minerals/raw/code/screenshot/(1).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM904-d06b-free-minerals/raw/code/screenshot/(1).png)
 
-![Screenshot 2](https://github.com/yaim0425/YAIM0425-d06b-free-minerals/raw/code/screenshot/(2).png)
+![Screenshot 2](https://github.com/yaim0425/YAIM904-d06b-free-minerals/raw/code/screenshot/(2).png)
 
-![Screenshot 3](https://github.com/yaim0425/YAIM0425-d06b-free-minerals/raw/code/screenshot/(3).png)
+![Screenshot 3](https://github.com/yaim0425/YAIM904-d06b-free-minerals/raw/code/screenshot/(3).png)
 
-![Screenshot 4](https://github.com/yaim0425/YAIM0425-d06b-free-minerals/raw/code/screenshot/(4).png)
+![Screenshot 4](https://github.com/yaim0425/YAIM904-d06b-free-minerals/raw/code/screenshot/(4).png)
