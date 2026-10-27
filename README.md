@@ -1,12 +1,10 @@
 # YAIM904 d06b – Free Minerals ⛏️♻️
 
----
-
 ## 📦 Description
 
 **YAIM904 d06b – Free Minerals** adds special recipes that allow players to **generate solid resources (minerals) for free** and **destroy unwanted items**.
 
-This MOD is intended for testing, creative gameplay and large-scale factory experiments where normal mining and logistics are not the focus.
+This MOD is intended for testing, creative gameplay, and large-scale factory experiments where normal mining and logistics are not the focus.
 
 It introduces:
 
@@ -29,7 +27,7 @@ No configuration is required. Simply unlock and use them.
 ## ⚠️ Warnings
 
 * 🚨 **This MOD completely breaks resource balance**
-* ⛏️ Removes the need for mining, ore patches and extraction logistics
+* ⛏️ Removes the need for mining, ore patches, and extraction logistics
 * 🧪 Recommended for:
 
   * Sandbox and creative worlds
@@ -52,8 +50,7 @@ No configuration is required. Simply unlock and use them.
 
 ## ❤️ Support
 
-Suggestions, ideas and balance feedback are welcome on the GitHub repository.
-
+Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 ---
 
 ## 🖼️ Screenshots

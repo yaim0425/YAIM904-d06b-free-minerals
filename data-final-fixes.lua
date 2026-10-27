@@ -553,7 +553,7 @@ function This_MOD.create_recipe___free()
         Recipe.icons = GMOD.copy(space.item.icons)
 
         --- Categoria de fabricación
-        Recipe.category = This_MOD.prefix .. space.action
+        Recipe.categories = { This_MOD.prefix .. space.action }
 
         --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
